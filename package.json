@@ -3,17 +3,17 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "http://laurenzbeck.github.io/codespaces-learning-path",
+  "homepage": "http://LaurenzBeck.github.io/codespaces-learning-path",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://laurenzbeck.github.io/codespaces-learning-path'",
+    "build-gh": "parcel build --public-url 'https://LaurenzBeck.github.io/codespaces-learning-path'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/microsoft/codespaces-teaching-template-js.git"
+    "url": "git+https://laurenzbeck.github.io/codespaces-learning-path.git"
   },
   "author": "Microsoft",
   "license": "ISC",
